@@ -1,9 +1,9 @@
 # Memoization
 
-# In order to test the code, run:
+## In order to test the code, run:
 npm run test
 
-# The required dependencies are:
+## The required dependencies are:
 + mocha
 + chai
 + lolex
@@ -14,7 +14,7 @@ npm install mocha chai lolex
 If you require a verbose option when running the code, you can set the variable debug = true 
 Inside the memoize function within the memoizaton.js file.
 
-# Summary:
+## Testing Summary:
 
 Data type testing summary:
 + undefined type does not work with memoized   ***
