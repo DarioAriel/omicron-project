@@ -1,4 +1,4 @@
-# Memoization
+# Memoization Exercise 
 
 ## In order to test the code, run:
 npm run test
@@ -26,7 +26,6 @@ Data type testing summary:
 + object type null is memoized succesfully
 + object type function is memozed succesfully
 
-Timeouts and the system clock were altered using lolex.
-In order to verify cache age, without waiting.
-
-The overall test of data types and cache age/timeouts was succesfull
+Other Testing
++ Timeouts and the system clock were altered using lolex, in order to verify cache age, without waiting.
++ The overall test of data types and cache age/timeouts was succesfull
