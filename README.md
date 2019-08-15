@@ -1,7 +1,7 @@
 # Memoization Exercise 
 
 ## In order to test the code, run:
-`<npm run test>`
+npm run test
 
 ## The required dependencies are:
 * mocha
