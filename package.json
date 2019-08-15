@@ -1,7 +1,7 @@
 {
   "name": "omicron-project",
   "version": "1.0.0",
-  "description": "Memoization Excercise",
+  "description": "Memoization Exercise",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js || exit 0"
