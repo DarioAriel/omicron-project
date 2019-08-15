@@ -8,8 +8,10 @@ npm run test
 + chai
 + lolex
 
-to install those dependencies, if you have NODE.JS installed, open a console, navigate to your project root folder and run:
-npm install mocha chai lolex
+## To install the required dependencies (you need NODE.JS installed);
+1- Open a console
+2- Navigate to your project root folder and run:
+3- npm install mocha chai lolex
 
 If you require a verbose option when running the code, you can set the variable debug = true 
 Inside the memoize function within the memoizaton.js file.
