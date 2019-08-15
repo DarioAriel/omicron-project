@@ -1,0 +1,16 @@
+{
+  "name": "omicron-project",
+  "version": "1.0.0",
+  "description": "Memoization Excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js || exit 0"
+  },
+  "author": "Dario Ariel Raimondo",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "lolex": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
